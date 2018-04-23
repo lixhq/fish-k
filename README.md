@@ -6,7 +6,7 @@
   https://github.com/tuvistavie/fundle
 * Add plugin to config.fish with fundle
 
-The easiest way to install fundle and plugin is to add the following to your `~/.config/.fish/config.fish` file:
+The easiest way to install fundle and plugin is to add the following to your `~/.config/fish/config.fish` file:
 
     # installing fundle if not installed
     if not functions -q fundle; eval (curl -sfL https://git.io/fundle-install); end
