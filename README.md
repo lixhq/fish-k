@@ -23,7 +23,7 @@ fish-k comes with autocompletion so most options should be visible that way.
 
 Get started by writing:
 
-    lb <context> <namespace> <kubectl stardard commands>
+    k <context> <namespace> <kubectl stardard commands>
 
 Then get fx pods:
 
